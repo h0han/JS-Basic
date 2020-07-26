@@ -1,1 +1,2 @@
-alert('Im Working. Im JS. Im Beautiful. Im worth it');
+const title = document.getElementById("title");
+title.innerHTML = "Hi! from JS";
